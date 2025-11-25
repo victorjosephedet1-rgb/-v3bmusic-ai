@@ -1,0 +1,28 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "search": "Search"
+  },
+  "navigation": {
+    "marketplace": "Marketplace",
+    "dashboard": "Dashboard",
+    "login": "Login",
+    "register": "Register"
+  },
+  "header": {
+    "brandName": "V3BMusic.AI",
+    "tagline": "AI-Powered Real-Time Royalty & Revenue Split Solution"
+  },
+  "landing": {
+    "hero": {
+      "title": "AI-Powered Real-Time Royalty Solutions",
+      "startCreating": "Start Creating"
+    }
+  },
+  "marketplace": {
+    "title": "Creator Marketplace",
+    "searchPlaceholder": "Search..."
+  }
+}

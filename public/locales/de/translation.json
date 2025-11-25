@@ -1,0 +1,64 @@
+{
+  "common": {
+    "loading": "Wird geladen...",
+    "error": "Fehler",
+    "success": "Erfolg",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "view": "Ansehen",
+    "download": "Herunterladen",
+    "upload": "Hochladen",
+    "search": "Suchen",
+    "filter": "Filtern"
+  },
+  "navigation": {
+    "marketplace": "Marktplatz",
+    "dashboard": "Dashboard",
+    "guidelines": "Richtlinien",
+    "sellMusic": "Musik verkaufen",
+    "login": "Anmelden",
+    "register": "Registrieren"
+  },
+  "header": {
+    "brandName": "V3BMusic.AI",
+    "tagline": "KI-gestützte Echtzeit-Lizenzgebühren & Umsatzverteilung"
+  },
+  "landing": {
+    "hero": {
+      "title": "KI-gestützte Echtzeit-Lizenzgebührenlösungen",
+      "subtitle": "Victor360 Brands revolutionäre Plattform löst traditionelle Musikindustrie-Streitigkeiten mit intelligenter Automatisierung und Blockchain-Transparenz.",
+      "startCreating": "Jetzt beginnen",
+      "exploreLibrary": "Bibliothek erkunden"
+    },
+    "features": {
+      "forCreators": {
+        "title": "Für Content-Ersteller",
+        "subtitle": "Lizenzieren Sie Premium-Musik für professionelle Inhalte",
+        "instantLicensing": "10-Sekunden-Sofortlizenzierung",
+        "professionalPricing": "Professionelle Preise ab 0,05 $"
+      },
+      "forArtists": {
+        "title": "Für Musikkünstler",
+        "subtitle": "Monetarisieren Sie Ihre Musik mit fortschrittlicher Technologie",
+        "revenueShare": "70% Umsatzbeteiligung (branchenführend)",
+        "instantPayouts": "Sofortige Auszahlungen in Sekunden"
+      }
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Willkommen zurück",
+      "emailAddress": "E-Mail-Adresse",
+      "enterEmail": "Geben Sie Ihre E-Mail ein",
+      "enterPassword": "Geben Sie Ihr Passwort ein",
+      "signingIn": "Anmeldung läuft..."
+    }
+  },
+  "marketplace": {
+    "title": "Creator-Marktplatz",
+    "subtitle": "Entdecken und lizenzieren Sie Premium-Musik-Snippets für Ihre Inhalte",
+    "searchPlaceholder": "Suche nach Song, Künstler, Stimmung oder Genre..."
+  }
+}

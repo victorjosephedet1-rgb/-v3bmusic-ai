@@ -1,0 +1,47 @@
+{
+  "common": {
+    "loading": "読み込み中...",
+    "error": "エラー",
+    "success": "成功",
+    "cancel": "キャンセル",
+    "save": "保存",
+    "search": "検索"
+  },
+  "navigation": {
+    "marketplace": "マーケットプレイス",
+    "dashboard": "ダッシュボード",
+    "login": "ログイン",
+    "register": "登録"
+  },
+  "header": {
+    "brandName": "V3BMusic.AI",
+    "tagline": "AIを活用したリアルタイムロイヤリティおよび収益分配ソリューション"
+  },
+  "landing": {
+    "hero": {
+      "title": "AIを活用したリアルタイムロイヤリティソリューション",
+      "subtitle": "Victor360 Brandの革新的なプラットフォームは、インテリジェントな自動化とブロックチェーンの透明性により、従来の音楽業界の紛争を解決します。",
+      "startCreating": "今すぐ始める",
+      "exploreLibrary": "ライブラリを探索"
+    },
+    "features": {
+      "forCreators": {
+        "title": "コンテンツクリエイター向け",
+        "subtitle": "プロフェッショナルコンテンツ用のプレミアム音楽をライセンス",
+        "instantLicensing": "10秒間の即座のライセンス",
+        "professionalPricing": "$0.05からのプロフェッショナル価格"
+      },
+      "forArtists": {
+        "title": "音楽アーティスト向け",
+        "subtitle": "先進技術であなたの音楽を収益化",
+        "revenueShare": "70％の収益分配（業界最高水準）",
+        "instantPayouts": "数秒で即座に支払い"
+      }
+    }
+  },
+  "marketplace": {
+    "title": "クリエイターマーケットプレイス",
+    "subtitle": "コンテンツ用のプレミアム音楽スニペットを発見してライセンス",
+    "searchPlaceholder": "曲、アーティスト、ムード、ジャンルで検索..."
+  }
+}

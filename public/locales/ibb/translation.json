@@ -1,0 +1,271 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "download": "Download",
+    "upload": "Upload",
+    "search": "Search",
+    "filter": "Filter",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "confirm": "Confirm",
+    "email": "Email",
+    "password": "Password",
+    "name": "Name",
+    "price": "Price",
+    "duration": "Duration",
+    "genre": "Genre",
+    "artist": "Artist",
+    "title": "Title"
+  },
+  "navigation": {
+    "marketplace": "Marketplace",
+    "dashboard": "Dashboard",
+    "guidelines": "Guidelines",
+    "sellMusic": "Sell My Music",
+    "adminPortal": "Admin Portal",
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "getStarted": "Get Started",
+    "login": "Login",
+    "register": "Register"
+  },
+  "header": {
+    "brandName": "V3BMusic.Ai",
+    "tagline": "AI-Powered Real-Time Royalty & Revenue Split Solution"
+  },
+  "landing": {
+    "hero": {
+      "title": "AI-Powered Real-Time Royalty Solutions",
+      "subtitle": "Victor360 Brand's revolutionary platform solves traditional music industry disputes with intelligent automation and blockchain transparency.",
+      "description": "Trusted by professional artists and creators worldwide",
+      "startCreating": "Start Creating",
+      "exploreLibrary": "Explore Library"
+    },
+    "stats": {
+      "globalUsers": "Global Users",
+      "globalLatency": "Global Latency",
+      "dailyTransactions": "Daily Transactions",
+      "activeUsers": "Active worldwide",
+      "peakCapacity": "Peak capacity: 1M RPS",
+      "globalAverage": "Global average"
+    },
+    "features": {
+      "title": "Professional Music Technology",
+      "subtitle": "Enterprise-grade AI, blockchain transparency, and instant global payments",
+      "forCreators": {
+        "title": "For Content Creators",
+        "subtitle": "License premium music for professional content",
+        "instantLicensing": "10-second instant licensing",
+        "professionalPricing": "Professional pricing from $0.05",
+        "multiPlatform": "Multi-platform compatibility",
+        "copyrightProtection": "Complete copyright protection",
+        "browseLibrary": "Browse Music Library"
+      },
+      "forArtists": {
+        "title": "For Music Artists",
+        "subtitle": "Monetize your music with advanced technology",
+        "revenueShare": "70% revenue share (industry-leading)",
+        "instantPayouts": "Instant payouts in seconds",
+        "aiPowered": "AI-powered optimization",
+        "globalTracking": "Global royalty tracking",
+        "startSelling": "Start Selling Music"
+      }
+    },
+    "howItWorks": {
+      "title": "How V3BMusic.Ai Works",
+      "subtitle": "Professional, fast, and built for scale",
+      "step1": {
+        "title": "Upload & AI Analysis",
+        "description": "Upload your music and our AI instantly analyzes it for optimal market positioning."
+      },
+      "step2": {
+        "title": "Smart Distribution",
+        "description": "AI sets optimal pricing and distributes globally across professional networks."
+      },
+      "step3": {
+        "title": "Instant Earnings",
+        "description": "Get paid instantly with professional-grade processing. 70% goes directly to you."
+      }
+    },
+    "cta": {
+      "title": "Join the Music Licensing Revolution",
+      "subtitle": "Experience professional-grade music licensing built with AI-powered insights and global reach.",
+      "launchOffer": "Professional Launch Offer",
+      "offerDescription": "First 10,000 artists get lifetime professional features. No setup fees.",
+      "startJourney": "Start Your Journey",
+      "trustIndicators": "Powering professional creators across:"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Welcome Back",
+      "subtitle": "Access your V3BMusic.AI account",
+      "securityNotice": "Your account connects you to revolutionary royalty tracking technology",
+      "roleSelection": "I am a:",
+      "contentCreator": "Content Creator",
+      "musicArtist": "Music Artist",
+      "emailAddress": "Email address",
+      "enterEmail": "Enter your email",
+      "enterPassword": "Enter your password",
+      "signingIn": "Signing in...",
+      "noAccount": "Don't have an account?",
+      "signUpHere": "Sign up here"
+    },
+    "register": {
+      "title": "Get Started with V3BMusic.AI",
+      "subtitle": "Join the future of music licensing",
+      "revolutionaryTitle": "Revolutionary Platform Features:",
+      "features": {
+        "exclusiveTech": "Victor360 Brand's advanced royalty tracking technology",
+        "firstOfKind": "First-of-its-kind pack-based licensing system",
+        "patentPending": "Patent-pending methodology for instant royalty resolution",
+        "transparency": "Complete transparency and global reach"
+      },
+      "wantTo": "I want to:",
+      "licenseMusic": "License Music",
+      "forCreators": "For creators",
+      "sellMusic": "Sell My Music",
+      "forArtists": "For artists",
+      "artistName": "Artist Name",
+      "fullName": "Full Name",
+      "enterArtistName": "Enter your artist name",
+      "enterFullName": "Enter your full name",
+      "createPassword": "Create a password",
+      "passwordSecurity": "Your password secures your unique digital identity and all associated assets",
+      "creatingAccount": "Creating account...",
+      "createAccount": "Create Account",
+      "alreadyHaveAccount": "Already have an account?",
+      "signInHere": "Sign in here"
+    }
+  },
+  "dashboard": {
+    "artist": {
+      "title": "Artist Dashboard",
+      "welcome": "Welcome back, {{name}}!",
+      "uploadTrack": "Upload New Track",
+      "tabs": {
+        "overview": "Overview",
+        "snippets": "My Snippets",
+        "aiInsights": "AI Insights",
+        "globalRoyalties": "Global Royalties",
+        "instantPayouts": "Instant Payouts",
+        "protection": "Copyright Protection",
+        "blockchain": "Blockchain Ledger",
+        "payouts": "Payouts"
+      },
+      "stats": {
+        "totalEarnings": "Total Earnings",
+        "totalLicenses": "Total Licenses",
+        "activeSnippets": "Active Snippets",
+        "topPerformer": "Top Performer",
+        "thisMonth": "this month",
+        "readyForLicensing": "Ready for licensing",
+        "mostLicensed": "Most licensed track"
+      },
+      "snippets": {
+        "title": "Your Snippets",
+        "subtitle": "Manage your uploaded tracks and snippets",
+        "tableHeaders": {
+          "title": "Title",
+          "duration": "Duration",
+          "price": "Price",
+          "licenses": "Licenses",
+          "earnings": "Earnings",
+          "status": "Status",
+          "actions": "Actions"
+        },
+        "noSnippets": {
+          "title": "No snippets yet",
+          "description": "Upload your first track to start earning from licensing",
+          "uploadFirst": "Upload Your First Track"
+        }
+      }
+    }
+  },
+  "marketplace": {
+    "title": "Creator Marketplace",
+    "subtitle": "Discover and license premium music snippets for your content",
+    "searchPlaceholder": "Search by song, artist, mood, or genre...",
+    "filters": {
+      "allGenres": "All Genres",
+      "allMoods": "All Moods",
+      "minPrice": "Min Price",
+      "maxPrice": "Max Price",
+      "anyLength": "Any Length"
+    },
+    "loading": {
+      "title": "Loading snippets...",
+      "subtitle": "Finding the perfect sounds for you"
+    },
+    "noResults": "No snippets found matching your criteria.",
+    "license": "License",
+    "addedToFavorites": "Added to Favorites",
+    "removedFromFavorites": "Removed from Favorites",
+    "snippetAdded": "Snippet added to your favorites",
+    "snippetRemoved": "Snippet removed from your favorites"
+  },
+  "notifications": {
+    "uploadReady": "Upload Ready",
+    "uploadModalReady": "Upload modal is ready for your music",
+    "fileSelected": "File Selected",
+    "fileReady": "is ready for upload",
+    "invalidFileType": "Invalid File Type",
+    "selectValidAudio": "Please select a valid audio file (MP3, WAV, FLAC, M4A)",
+    "uploadModalOpening": "Upload Modal Opening",
+    "preparingUpload": "Preparing upload interface...",
+    "uploadError": "Upload Error",
+    "uploadModalFailed": "Failed to open upload modal. Please try again.",
+    "audioLoaded": "Audio Loaded",
+    "trackLoaded": "Track loaded successfully ({{duration}}s)",
+    "audioLoadError": "Audio Load Error",
+    "audioLoadFailed": "Failed to load audio file. Please try a different file.",
+    "snippetRangeAdded": "Snippet Range Added",
+    "snippetCreated": "Created {{duration}}s snippet",
+    "snippetTooShort": "Snippet Too Short",
+    "minimumDuration": "Snippets must be at least 5 seconds long",
+    "snippetRemoved": "Snippet Removed",
+    "snippetRangeRemoved": "Snippet range has been removed",
+    "snippetUploaded": "Snippet Uploaded",
+    "uploadSuccessful": "has been successfully uploaded and is now available for licensing",
+    "uploadFailed": "Upload Failed",
+    "uploadError": "There was an error uploading your snippet. Please try again.",
+    "creatingSnippets": "Creating Snippets",
+    "processingSnippets": "Processing {{count}} snippet(s)...",
+    "uploadSuccessMultiple": "{{count}} snippet(s) uploaded and ready for licensing"
+  },
+  "footer": {
+    "description": "AI-powered real-time royalty and revenue split solution by Victor360 Brand. Solving traditional music industry disputes with intelligent automation.",
+    "copyright": "© {{year}} Victor360 Brand. All rights reserved. Patent pending.",
+    "platform": "Platform",
+    "musicMarketplace": "Music Marketplace",
+    "artistDashboard": "Artist Dashboard",
+    "usageGuidelines": "Usage Guidelines",
+    "company": "Company",
+    "aiPoweredSolutions": "AI-Powered Solutions",
+    "globalInfrastructure": "Global Infrastructure",
+    "builtBy": "Built by Victor360 Brand • Patent Pending • All Rights Reserved"
+  },
+  "language": {
+    "selectLanguage": "Select Language",
+    "english": "English",
+    "spanish": "Español",
+    "french": "Français",
+    "german": "Deutsch",
+    "portuguese": "Português",
+    "japanese": "日本語",
+    "chinese": "中文",
+    "korean": "한국어",
+    "arabic": "العربية",
+    "hindi": "हिन्दी"
+  }
+}

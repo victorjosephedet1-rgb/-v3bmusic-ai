@@ -1,0 +1,122 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "cancel": "Annuler",
+    "save": "Sauvegarder",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "view": "Voir",
+    "download": "Télécharger",
+    "upload": "Téléverser",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "close": "Fermer",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "submit": "Soumettre",
+    "confirm": "Confirmer",
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "name": "Nom",
+    "price": "Prix",
+    "duration": "Durée",
+    "genre": "Genre",
+    "artist": "Artiste",
+    "title": "Titre"
+  },
+  "navigation": {
+    "marketplace": "Marché",
+    "dashboard": "Tableau de bord",
+    "guidelines": "Directives",
+    "sellMusic": "Vendre Ma Musique",
+    "adminPortal": "Portail Admin",
+    "signIn": "Se connecter",
+    "signOut": "Se déconnecter",
+    "getStarted": "Commencer",
+    "login": "Connexion",
+    "register": "S'inscrire"
+  },
+  "header": {
+    "brandName": "V3BMusic.Ai",
+    "tagline": "Solution de Redevances en Temps Réel Alimentée par IA"
+  },
+  "landing": {
+    "hero": {
+      "title": "Solutions de Redevances en Temps Réel Alimentées par IA",
+      "subtitle": "La plateforme révolutionnaire de Victor360 Brand résout les disputes traditionnelles de l'industrie musicale avec l'automatisation intelligente et la transparence blockchain.",
+      "description": "Fait confiance par des artistes et créateurs professionnels dans le monde entier",
+      "startCreating": "Commencer à Créer",
+      "exploreLibrary": "Explorer la Bibliothèque"
+    },
+    "stats": {
+      "globalUsers": "Utilisateurs Globaux",
+      "globalLatency": "Latence Globale",
+      "dailyTransactions": "Transactions Quotidiennes",
+      "activeUsers": "Actifs dans le monde entier",
+      "peakCapacity": "Capacité maximale: 1M RPS",
+      "globalAverage": "Moyenne globale"
+    },
+    "features": {
+      "title": "Technologie Musicale Professionnelle",
+      "subtitle": "IA de niveau entreprise, transparence blockchain et paiements globaux instantanés",
+      "forCreators": {
+        "title": "Pour les Créateurs de Contenu",
+        "subtitle": "Licenciez de la musique premium pour du contenu professionnel",
+        "instantLicensing": "Licence instantanée de 10 secondes",
+        "professionalPricing": "Prix professionnels à partir de 0,05 $",
+        "multiPlatform": "Compatibilité multi-plateforme",
+        "copyrightProtection": "Protection complète des droits d'auteur",
+        "browseLibrary": "Parcourir la Bibliothèque Musicale"
+      },
+      "forArtists": {
+        "title": "Pour les Artistes Musicaux",
+        "subtitle": "Monétisez votre musique avec une technologie avancée",
+        "revenueShare": "70% de partage des revenus (leader de l'industrie)",
+        "instantPayouts": "Paiements instantanés en secondes",
+        "aiPowered": "Optimisation alimentée par IA",
+        "globalTracking": "Suivi global des redevances",
+        "startSelling": "Commencer à Vendre de la Musique"
+      }
+    },
+    "howItWorks": {
+      "title": "Comment Fonctionne V3BMusic.Ai",
+      "subtitle": "Professionnel, rapide et conçu pour l'échelle",
+      "step1": {
+        "title": "Téléversement et Analyse IA",
+        "description": "Téléversez votre musique et notre IA l'analyse instantanément pour un positionnement optimal sur le marché."
+      },
+      "step2": {
+        "title": "Distribution Intelligente",
+        "description": "L'IA établit des prix optimaux et distribue globalement à travers des réseaux professionnels."
+      },
+      "step3": {
+        "title": "Gains Instantanés",
+        "description": "Soyez payé instantanément avec un traitement de niveau professionnel. 70% vous revient directement."
+      }
+    },
+    "cta": {
+      "title": "Rejoignez la Révolution des Licences Musicales",
+      "subtitle": "Découvrez les licences musicales de niveau professionnel construites avec des insights alimentés par IA et une portée globale.",
+      "launchOffer": "Offre de Lancement Professionnel",
+      "offerDescription": "Les 10 000 premiers artistes obtiennent des fonctionnalités professionnelles à vie. Aucuns frais de configuration.",
+      "startJourney": "Commencez Votre Voyage",
+      "trustIndicators": "Alimentant des créateurs professionnels à travers:"
+    }
+  },
+  "language": {
+    "selectLanguage": "Sélectionner la Langue",
+    "english": "English",
+    "spanish": "Español",
+    "french": "Français",
+    "german": "Deutsch",
+    "portuguese": "Português",
+    "japanese": "日本語",
+    "chinese": "中文",
+    "korean": "한국어",
+    "arabic": "العربية",
+    "hindi": "हिन्दी"
+  }
+}

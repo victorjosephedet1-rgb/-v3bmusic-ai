@@ -1,0 +1,47 @@
+{
+  "common": {
+    "loading": "Carregando...",
+    "error": "Erro",
+    "success": "Sucesso",
+    "cancel": "Cancelar",
+    "save": "Salvar",
+    "search": "Pesquisar"
+  },
+  "navigation": {
+    "marketplace": "Mercado",
+    "dashboard": "Painel",
+    "login": "Entrar",
+    "register": "Registrar"
+  },
+  "header": {
+    "brandName": "V3BMusic.AI",
+    "tagline": "Solução de royalties e divisão de receitas em tempo real com IA"
+  },
+  "landing": {
+    "hero": {
+      "title": "Soluções de Royalties em Tempo Real com IA",
+      "subtitle": "A plataforma revolucionária da Victor360 Brand resolve disputas tradicionais da indústria musical com automação inteligente e transparência blockchain.",
+      "startCreating": "Começar agora",
+      "exploreLibrary": "Explorar biblioteca"
+    },
+    "features": {
+      "forCreators": {
+        "title": "Para Criadores de Conteúdo",
+        "subtitle": "Licencie música premium para conteúdo profissional",
+        "instantLicensing": "Licenciamento instantâneo de 10 segundos",
+        "professionalPricing": "Preços profissionais a partir de $0,05"
+      },
+      "forArtists": {
+        "title": "Para Artistas Musicais",
+        "subtitle": "Monetize sua música com tecnologia avançada",
+        "revenueShare": "70% de participação na receita (líder do setor)",
+        "instantPayouts": "Pagamentos instantâneos em segundos"
+      }
+    }
+  },
+  "marketplace": {
+    "title": "Mercado de Criadores",
+    "subtitle": "Descubra e licencie snippets de música premium para seu conteúdo",
+    "searchPlaceholder": "Pesquise por música, artista, humor ou gênero..."
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "view": "Ver",
+    "download": "Descargar",
+    "upload": "Subir",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "close": "Cerrar",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "submit": "Enviar",
+    "confirm": "Confirmar",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "name": "Nombre",
+    "price": "Precio",
+    "duration": "Duración",
+    "genre": "Género",
+    "artist": "Artista",
+    "title": "Título"
+  },
+  "navigation": {
+    "marketplace": "Mercado",
+    "dashboard": "Panel",
+    "guidelines": "Guías",
+    "sellMusic": "Vender Mi Música",
+    "adminPortal": "Portal Admin",
+    "signIn": "Iniciar Sesión",
+    "signOut": "Cerrar Sesión",
+    "getStarted": "Comenzar",
+    "login": "Iniciar Sesión",
+    "register": "Registrarse"
+  },
+  "header": {
+    "brandName": "V3BMusic.Ai",
+    "tagline": "Solución de Regalías en Tiempo Real Impulsada por IA"
+  },
+  "landing": {
+    "hero": {
+      "title": "Soluciones de Regalías en Tiempo Real Impulsadas por IA",
+      "subtitle": "La plataforma revolucionaria de Victor360 Brand resuelve disputas tradicionales de la industria musical con automatización inteligente y transparencia blockchain.",
+      "description": "Confiado por artistas y creadores profesionales en todo el mundo",
+      "startCreating": "Comenzar a Crear",
+      "exploreLibrary": "Explorar Biblioteca"
+    },
+    "stats": {
+      "globalUsers": "Usuarios Globales",
+      "globalLatency": "Latencia Global",
+      "dailyTransactions": "Transacciones Diarias",
+      "activeUsers": "Activos en todo el mundo",
+      "peakCapacity": "Capacidad máxima: 1M RPS",
+      "globalAverage": "Promedio global"
+    },
+    "features": {
+      "title": "Tecnología Musical Profesional",
+      "subtitle": "IA de nivel empresarial, transparencia blockchain y pagos globales instantáneos",
+      "forCreators": {
+        "title": "Para Creadores de Contenido",
+        "subtitle": "Licencia música premium para contenido profesional",
+        "instantLicensing": "Licenciamiento instantáneo de 10 segundos",
+        "professionalPricing": "Precios profesionales desde $0.05",
+        "multiPlatform": "Compatibilidad multiplataforma",
+        "copyrightProtection": "Protección completa de derechos de autor",
+        "browseLibrary": "Explorar Biblioteca Musical"
+      },
+      "forArtists": {
+        "title": "Para Artistas Musicales",
+        "subtitle": "Monetiza tu música con tecnología avanzada",
+        "revenueShare": "70% de participación en ingresos (líder en la industria)",
+        "instantPayouts": "Pagos instantáneos en segundos",
+        "aiPowered": "Optimización impulsada por IA",
+        "globalTracking": "Seguimiento global de regalías",
+        "startSelling": "Comenzar a Vender Música"
+      }
+    },
+    "howItWorks": {
+      "title": "Cómo Funciona V3BMusic.Ai",
+      "subtitle": "Profesional, rápido y construido para escalar",
+      "step1": {
+        "title": "Subida y Análisis IA",
+        "description": "Sube tu música y nuestra IA la analiza instantáneamente para un posicionamiento óptimo en el mercado."
+      },
+      "step2": {
+        "title": "Distribución Inteligente",
+        "description": "La IA establece precios óptimos y distribuye globalmente a través de redes profesionales."
+      },
+      "step3": {
+        "title": "Ganancias Instantáneas",
+        "description": "Recibe pagos instantáneos con procesamiento de nivel profesional. El 70% va directamente a ti."
+      }
+    },
+    "cta": {
+      "title": "Únete a la Revolución del Licenciamiento Musical",
+      "subtitle": "Experimenta el licenciamiento musical de nivel profesional construido con insights impulsados por IA y alcance global.",
+      "launchOffer": "Oferta de Lanzamiento Profesional",
+      "offerDescription": "Los primeros 10,000 artistas obtienen características profesionales de por vida. Sin tarifas de configuración.",
+      "startJourney": "Comienza Tu Viaje",
+      "trustIndicators": "Impulsando creadores profesionales en:"
+    }
+  },
+  "auth": {
+    "login": {
+      "title": "Bienvenido de Vuelta",
+      "subtitle": "Accede a tu cuenta V3BMusic.AI",
+      "securityNotice": "Tu cuenta te conecta con tecnología revolucionaria de seguimiento de regalías",
+      "roleSelection": "Soy un:",
+      "contentCreator": "Creador de Contenido",
+      "musicArtist": "Artista Musical",
+      "emailAddress": "Dirección de correo electrónico",
+      "enterEmail": "Ingresa tu correo electrónico",
+      "enterPassword": "Ingresa tu contraseña",
+      "signingIn": "Iniciando sesión...",
+      "noAccount": "¿No tienes una cuenta?",
+      "signUpHere": "Regístrate aquí"
+    },
+    "register": {
+      "title": "Comienza con V3BMusic.AI",
+      "subtitle": "Únete al futuro de las licencias musicales",
+      "revolutionaryTitle": "Características Revolucionarias de la Plataforma:",
+      "features": {
+        "exclusiveTech": "Tecnología avanzada de seguimiento de regalías de Victor360 Brand",
+        "firstOfKind": "Primer sistema de licencias basado en paquetes de su tipo",
+        "patentPending": "Metodología pendiente de patente para resolución instantánea de regalías",
+        "transparency": "Transparencia completa y alcance global"
+      },
+      "wantTo": "Quiero:",
+      "licenseMusic": "Licenciar Música",
+      "forCreators": "Para creadores",
+      "sellMusic": "Vender Mi Música",
+      "forArtists": "Para artistas",
+      "artistName": "Nombre del Artista",
+      "fullName": "Nombre Completo",
+      "enterArtistName": "Ingresa tu nombre artístico",
+      "enterFullName": "Ingresa tu nombre completo",
+      "createPassword": "Crear una contraseña",
+      "passwordSecurity": "Tu contraseña asegura tu identidad digital única y todos los activos asociados",
+      "creatingAccount": "Creando cuenta...",
+      "createAccount": "Crear Cuenta",
+      "alreadyHaveAccount": "¿Ya tienes una cuenta?",
+      "signInHere": "Inicia sesión aquí"
+    }
+  },
+  "dashboard": {
+    "artist": {
+      "title": "Panel del Artista",
+      "welcome": "¡Bienvenido de vuelta, {{name}}!",
+      "uploadTrack": "Subir Nueva Pista",
+      "tabs": {
+        "overview": "Resumen",
+        "snippets": "Mis Fragmentos",
+        "aiInsights": "Insights IA",
+        "globalRoyalties": "Regalías Globales",
+        "instantPayouts": "Pagos Instantáneos",
+        "protection": "Protección de Derechos",
+        "blockchain": "Libro Mayor Blockchain",
+        "payouts": "Pagos"
+      },
+      "stats": {
+        "totalEarnings": "Ganancias Totales",
+        "totalLicenses": "Licencias Totales",
+        "activeSnippets": "Fragmentos Activos",
+        "topPerformer": "Mejor Rendimiento",
+        "thisMonth": "este mes",
+        "readyForLicensing": "Listo para licenciar",
+        "mostLicensed": "Pista más licenciada"
+      },
+      "snippets": {
+        "title": "Tus Fragmentos",
+        "subtitle": "Gestiona tus pistas y fragmentos subidos",
+        "tableHeaders": {
+          "title": "Título",
+          "duration": "Duración",
+          "price": "Precio",
+          "licenses": "Licencias",
+          "earnings": "Ganancias",
+          "status": "Estado",
+          "actions": "Acciones"
+        },
+        "noSnippets": {
+          "title": "Aún no hay fragmentos",
+          "description": "Sube tu primera pista para comenzar a ganar con licencias",
+          "uploadFirst": "Sube Tu Primera Pista"
+        }
+      }
+    }
+  },
+  "marketplace": {
+    "title": "Mercado de Creadores",
+    "subtitle": "Descubre y licencia fragmentos musicales premium para tu contenido",
+    "searchPlaceholder": "Buscar por canción, artista, estado de ánimo o género...",
+    "filters": {
+      "allGenres": "Todos los Géneros",
+      "allMoods": "Todos los Estados de Ánimo",
+      "minPrice": "Precio Mín",
+      "maxPrice": "Precio Máx",
+      "anyLength": "Cualquier Duración"
+    },
+    "loading": {
+      "title": "Cargando fragmentos...",
+      "subtitle": "Encontrando los sonidos perfectos para ti"
+    },
+    "noResults": "No se encontraron fragmentos que coincidan con tus criterios.",
+    "license": "Licenciar",
+    "addedToFavorites": "Agregado a Favoritos",
+    "removedFromFavorites": "Eliminado de Favoritos",
+    "snippetAdded": "Fragmento agregado a tus favoritos",
+    "snippetRemoved": "Fragmento eliminado de tus favoritos"
+  },
+  "notifications": {
+    "uploadReady": "Subida Lista",
+    "uploadModalReady": "El modal de subida está listo para tu música",
+    "fileSelected": "Archivo Seleccionado",
+    "fileReady": "está listo para subir",
+    "invalidFileType": "Tipo de Archivo Inválido",
+    "selectValidAudio": "Por favor selecciona un archivo de audio válido (MP3, WAV, FLAC, M4A)",
+    "uploadModalOpening": "Abriendo Modal de Subida",
+    "preparingUpload": "Preparando interfaz de subida...",
+    "uploadError": "Error de Subida",
+    "uploadModalFailed": "Error al abrir el modal de subida. Por favor intenta de nuevo.",
+    "audioLoaded": "Audio Cargado",
+    "trackLoaded": "Pista cargada exitosamente ({{duration}}s)",
+    "audioLoadError": "Error de Carga de Audio",
+    "audioLoadFailed": "Error al cargar el archivo de audio. Por favor intenta con un archivo diferente.",
+    "snippetRangeAdded": "Rango de Fragmento Agregado",
+    "snippetCreated": "Fragmento de {{duration}}s creado",
+    "snippetTooShort": "Fragmento Muy Corto",
+    "minimumDuration": "Los fragmentos deben tener al menos 5 segundos de duración",
+    "snippetRemoved": "Fragmento Eliminado",
+    "snippetRangeRemoved": "El rango del fragmento ha sido eliminado",
+    "snippetUploaded": "Fragmento Subido",
+    "uploadSuccessful": "ha sido subido exitosamente y ahora está disponible para licenciar",
+    "uploadFailed": "Subida Fallida",
+    "uploadError": "Hubo un error al subir tu fragmento. Por favor intenta de nuevo.",
+    "creatingSnippets": "Creando Fragmentos",
+    "processingSnippets": "Procesando {{count}} fragmento(s)...",
+    "uploadSuccessMultiple": "{{count}} fragmento(s) subidos y listos para licenciar"
+  },
+  "footer": {
+    "description": "Solución de regalías y división de ingresos en tiempo real impulsada por IA de Victor360 Brand. Resolviendo disputas tradicionales de la industria musical con automatización inteligente.",
+    "copyright": "© {{year}} Victor360 Brand. Todos los derechos reservados. Patente pendiente.",
+    "platform": "Plataforma",
+    "musicMarketplace": "Mercado Musical",
+    "artistDashboard": "Panel del Artista",
+    "usageGuidelines": "Guías de Uso",
+    "company": "Empresa",
+    "aiPoweredSolutions": "Soluciones Impulsadas por IA",
+    "globalInfrastructure": "Infraestructura Global",
+    "builtBy": "Construido por Victor360 Brand • Patente Pendiente • Todos los Derechos Reservados"
+  },
+  "language": {
+    "selectLanguage": "Seleccionar Idioma",
+    "english": "English",
+    "spanish": "Español",
+    "french": "Français",
+    "german": "Deutsch",
+    "portuguese": "Português",
+    "japanese": "日本語",
+    "chinese": "中文",
+    "korean": "한국어",
+    "arabic": "العربية",
+    "hindi": "हिन्दी"
+  }
+}

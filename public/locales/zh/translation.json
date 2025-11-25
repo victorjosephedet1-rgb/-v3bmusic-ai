@@ -1,0 +1,47 @@
+{
+  "common": {
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功",
+    "cancel": "取消",
+    "save": "保存",
+    "search": "搜索"
+  },
+  "navigation": {
+    "marketplace": "市场",
+    "dashboard": "仪表板",
+    "login": "登录",
+    "register": "注册"
+  },
+  "header": {
+    "brandName": "V3BMusic.AI",
+    "tagline": "AI驱动的实时版税和收入分成解决方案"
+  },
+  "landing": {
+    "hero": {
+      "title": "AI驱动的实时版税解决方案",
+      "subtitle": "Victor360品牌的革命性平台通过智能自动化和区块链透明度解决传统音乐行业纠纷。",
+      "startCreating": "立即开始",
+      "exploreLibrary": "探索库"
+    },
+    "features": {
+      "forCreators": {
+        "title": "面向内容创作者",
+        "subtitle": "为专业内容授权优质音乐",
+        "instantLicensing": "10秒即时授权",
+        "professionalPricing": "专业定价从$0.05起"
+      },
+      "forArtists": {
+        "title": "面向音乐艺术家",
+        "subtitle": "使用先进技术将您的音乐货币化",
+        "revenueShare": "70%收入分成（行业领先）",
+        "instantPayouts": "几秒钟内即时支付"
+      }
+    }
+  },
+  "marketplace": {
+    "title": "创作者市场",
+    "subtitle": "发现并授权优质音乐片段用于您的内容",
+    "searchPlaceholder": "按歌曲、艺术家、情绪或类型搜索..."
+  }
+}

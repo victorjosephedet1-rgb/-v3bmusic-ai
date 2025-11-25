@@ -1,0 +1,128 @@
+{
+  "common": {
+    "welcome": "Velkommen til V3BMusic.ai",
+    "getStarted": "Kom i gang",
+    "learnMore": "Lær mer",
+    "signUp": "Registrer deg",
+    "signIn": "Logg inn",
+    "logout": "Logg ut",
+    "profile": "Profil",
+    "settings": "Innstillinger",
+    "search": "Søk",
+    "upload": "Last opp",
+    "download": "Last ned",
+    "share": "Del",
+    "edit": "Rediger",
+    "delete": "Slett",
+    "save": "Lagre",
+    "cancel": "Avbryt",
+    "confirm": "Bekreft",
+    "close": "Lukk",
+    "back": "Tilbake",
+    "next": "Neste",
+    "previous": "Forrige",
+    "loading": "Laster...",
+    "error": "Feil",
+    "success": "Suksess",
+    "warning": "Advarsel",
+    "info": "Info"
+  },
+  "nav": {
+    "home": "Hjem",
+    "discover": "Oppdag",
+    "marketplace": "Markedsplass",
+    "dashboard": "Kontrollpanel",
+    "aboutUs": "Om oss",
+    "contact": "Kontakt",
+    "help": "Hjelp",
+    "legal": "Juridisk"
+  },
+  "auth": {
+    "login": "Logg inn",
+    "register": "Registrer",
+    "email": "E-post",
+    "password": "Passord",
+    "confirmPassword": "Bekreft passord",
+    "forgotPassword": "Glemt passord?",
+    "rememberMe": "Husk meg",
+    "alreadyHaveAccount": "Har du allerede en konto?",
+    "dontHaveAccount": "Har du ikke en konto?",
+    "createAccount": "Opprett konto",
+    "artistAccount": "Kunstnerkonto",
+    "buyerAccount": "Kjøperkonto"
+  },
+  "hero": {
+    "title": "Den globale musikkplattformen for åpenbar lisensering",
+    "subtitle": "Kjøp, selg og lisensier musikk med blockchain-sikret transparens",
+    "cta": "Utforsk Markedsplassen",
+    "stats": {
+      "artists": "Kunstnere",
+      "tracks": "Spor",
+      "sales": "Salg i dag"
+    }
+  },
+  "features": {
+    "title": "Hvorfor velge V3BMusic.ai",
+    "instantLicensing": {
+      "title": "Umiddelbar lisensering",
+      "description": "Få din musikklisens umiddelbart med blockchain-verifisering"
+    },
+    "transparentRoyalties": {
+      "title": "Transparente royalties",
+      "description": "Sanntidssporing av alle royalties og utbetalinger"
+    },
+    "globalReach": {
+      "title": "Global rekkevidde",
+      "description": "Koble til med kunstnere og kjøpere verden over"
+    },
+    "securePayments": {
+      "title": "Sikre betalinger",
+      "description": "Blockchain-drevet betalingsinfrastruktur"
+    }
+  },
+  "marketplace": {
+    "title": "Markedsplass for skapere",
+    "browse": "Bla gjennom musikk",
+    "filter": "Filtrer",
+    "sort": "Sorter",
+    "genre": "Sjanger",
+    "mood": "Stemning",
+    "tempo": "Tempo",
+    "price": "Pris",
+    "license": "Lisenstype",
+    "addToCart": "Legg til i handlekurv",
+    "buyNow": "Kjøp nå",
+    "preview": "Forhåndsvisning"
+  },
+  "dashboard": {
+    "title": "Kunstner-kontrollpanel",
+    "overview": "Oversikt",
+    "myMusic": "Min musikk",
+    "sales": "Salg",
+    "royalties": "Royalties",
+    "analytics": "Analyse",
+    "earnings": "Inntekter",
+    "uploads": "Opplastinger"
+  },
+  "upload": {
+    "title": "Last opp musikk",
+    "dragDrop": "Dra og slipp filer her",
+    "selectFile": "Velg fil",
+    "trackTitle": "Sporets tittel",
+    "description": "Beskrivelse",
+    "genre": "Sjanger",
+    "mood": "Stemning",
+    "tags": "Merker",
+    "price": "Pris",
+    "uploadSuccess": "Filen ble lastet opp!",
+    "uploadError": "Opplasting mislyktes"
+  },
+  "footer": {
+    "about": "Om V3BMusic.ai",
+    "platform": "Plattform",
+    "resources": "Ressurser",
+    "legal": "Juridisk",
+    "followUs": "Følg oss",
+    "rightsReserved": "Alle rettigheter reservert"
+  }
+}
